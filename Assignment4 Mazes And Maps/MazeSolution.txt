@@ -1,0 +1,5 @@
+Entrance -> A
+A -west> B
+B -north> E
+E -north> D
+D -north> Exit

@@ -1,0 +1,12 @@
+A south <-> Entrance
+A west <-> B south
+A north <-> C south
+A east <-> F south
+F west <-> B east
+B RED key
+B north <BLUE> E south
+C BLUE key
+C west <RED> D east
+E north <-> D south
+D north <-> Exit
+X south <-> Y north
